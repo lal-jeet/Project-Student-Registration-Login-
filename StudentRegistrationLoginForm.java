@@ -67,16 +67,16 @@ public class StudentRegistrationLoginForm {
 			     }
 	       }
 	       break;
-	      
+
+              // Show all Student details
 //	     case 2:
-//	    	 ResultSet rSet = stm.executeQuery("select * from StudentData ");
+//	    	 ResultSet rSet = stm.executeQuery("select * from STUDENTLOGIN ");
 //		     while(rSet.next()) {
 //		    	 System.out.println("RollNo: "+rSet.getString(1)+"\tName :"+rSet.getString(2)+"\tPercentage :"+rSet.getString(3)+"\tFName :"+rSet.getString(4)+"\tLName :"+rSet.getString(5)+"\tMailId :"+rSet.getString(6)+"\tPhoNo :"+rSet.getString(7)+": ");
 //		     }
 //		     con.close();
 //				sc.close();
 //				rSet.close();
-//				
 //				break;
 				
 	       //show student deails with name and roll number 
