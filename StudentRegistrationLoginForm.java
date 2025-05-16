@@ -140,7 +140,7 @@ public class StudentRegistrationLoginForm {
 				     
 				     break;
 				     
-				     // delete student data
+			  // delete student data
 		    	 case 3:
 		    		 stm=con.prepareStatement("delete from STUDENTLOGIN where percentage between 30 and 60 ");
 		    		  stm.executeUpdate();
