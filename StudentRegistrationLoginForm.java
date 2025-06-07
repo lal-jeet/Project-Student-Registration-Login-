@@ -3,7 +3,8 @@ package com.students_registration_login_form;
 
 import java.sql.*;
 import java.util.*;
-
+// student registration and login without database connection
+// this is only single page application
 public class StudentRegistrationLoginForm {
 
 	public static void main(String[] args) 
